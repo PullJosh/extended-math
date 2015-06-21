@@ -49,7 +49,8 @@
         ],
         menus: {
            constants: ['pi', 'e', 'infinity', 'golden ratio']
-        }
+        },
+        url: 'https://github.com/PullJosh/extended-math/blob/master/README.md'
     };
 
     // Register the extension
