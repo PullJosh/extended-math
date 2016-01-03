@@ -44,7 +44,7 @@
             // Block type, block name, function name
             ['r', '%n ^ %n', 'power', 2, 3],
             ['r', 'distance from x: %n y: %n to x: %n y: %n', 'distance', 0, 0, 30, 40],
-            ['r', 'constant %m.constants', 'constants'],
+            ['r', 'constant %m.constants', 'constants', ''],
             ['r', 'factorial of %n', 'factorial', 5]
         ],
         menus: {
